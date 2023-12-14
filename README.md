@@ -2,7 +2,8 @@
 
 🤓 I am currently a student at the School of Computer Science and Engineering, Chongqing University of Technology, China, leading the VR Group. I am also a visiting scholar at YUV group, Great Bay University, supervised by Prof. [![Zitong Yu](https://zitongyu.github.io/). My research interests include computer vision, action recognition, and multimodal fusion.
 
-🌱[My Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1joiJpUAAAAJ)\\
+🌱[My Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1joiJpUAAAAJ)
+
 📫[My CSDN blob](https://blog.csdn.net/rikeilong?type=blog)
 
 <!--
