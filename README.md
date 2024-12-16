@@ -2,8 +2,7 @@
 
 ### My name is ✨ Qilang Ye (叶启朗) ✨
 
-🤓 I am currently a research assistant at YUV group, Great Bay University, supervised by Prof. [Zitong Yu](https://zitongyu.github.io/). 
-I was an intern at [Guangzhou Sidece Medical Technology Company](https://www.qcc.com/firm/7572eb5b2f54101f16fbc75bfa14d916.html), worked in the Endoscopic Recognition Team. My research interests include computer vision, action recognition, and multimodal large language model.
+🤓 I am an incoming Ph.D. student at Nankai University and will be joining the [InTimeLab](https://intimelab.github.io/). Previously, I was a research assistant at YUV group, Great Bay University, supervised by Prof. [Zitong Yu](https://zitongyu.github.io/). My research interests include computer vision, action recognition, and multimodal large language model.
 
 🌱[My Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1joiJpUAAAAJ)
 
