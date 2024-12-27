@@ -2,7 +2,9 @@
 
 ### My name is ✨ Qilang Ye (叶启朗) ✨
 
-🤓 I am an incoming Ph.D. student at Nankai University and will be joining the [InTimeLab](https://intimelab.github.io/). Previously, I was a research assistant at YUV group, Great Bay University, supervised by Prof. [Zitong Yu](https://zitongyu.github.io/). My research interests include computer vision, action recognition, and multimodal large language model.
+🤓 Previously, I was a research assistant at YUV group, Great Bay University, supervised by Prof. [Zitong Yu](https://zitongyu.github.io/). My research interests include computer vision, action recognition, and multimodal large language model.
+
+<!--I am an incoming Ph.D. student at Nankai University and will be joining the [InTimeLab](https://intimelab.github.io/).-->
 
 🌱[My Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=1joiJpUAAAAJ)
 
